@@ -4,8 +4,8 @@
 ### Machine learning and Data science Topic
 | Name                      | Link                             |
 | ------------------------------- | ------------------------------------ |
-| Basic Pthon | NumPy |
-| Basic Pthon | NumPy |
+| Basic Pthon | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/F-TOUR-APPLICATION) |
+| Basic Pthon | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/F-TOUR-APPLICATION)|
 | Basic Pthon | NumPy |
 | Basic Pthon | NumPy |
 
