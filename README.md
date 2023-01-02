@@ -5,6 +5,9 @@
 
 | ------------------------------- | ------------------------------------ |
 | Basic Pthon | NumPy |
+| Basic Pthon | NumPy |
+| Basic Pthon | NumPy |
+| Basic Pthon | NumPy |
 
 ## ID3 Algorithm in Decision Tree :
    ID3 algorithm stands for Iterative Dichotomiser 3, which is a classification algorithm that follows a greedy approach of building a decision tree by selecting the best attribute that yields maximum Information Gain (IG) or minimum Entropy (H).
