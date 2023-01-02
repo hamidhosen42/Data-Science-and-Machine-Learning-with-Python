@@ -4,10 +4,62 @@
 ### Machine learning and Data science Topic
 | Name                      | Link                             |
 | ------------------------------- | ------------------------------------ |
-| Basic Pthon | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/F-TOUR-APPLICATION) |
-| Basic Pthon | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/F-TOUR-APPLICATION)|
-| Basic Pthon | NumPy |
-| Basic Pthon | NumPy |
+| Basic Python | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Numpy | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Pandas | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Linear Regression | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Feature Transformation | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Encoding | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Decision Tree | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Confusion matrix | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| KNN Algorithm | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| K-Means Cluster | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Logistic Regression | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Breast Cancer Prediction | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Gradient Decent in ML | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Multivariable regression | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Imbalanced Class & Cross Validation | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Feature Selection | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Over vs Under vs Best Fitting | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Post Pruning for Cost Complexity | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Random Forest & Tuning | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Hyper Parameter Optimization for XgBoost-Use Breast Cancer | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Feature Extraction | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Text preprocessing | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Naive Bayes | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| SVM | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Statistics | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| R-Squared Value | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Merge Dataframes in Python using Pandas | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Linear Regression Algorithm | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Data Preprocessing (Ordinal Encoder)| [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Feature Enginnering Encoding Tecnique | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Decision Tree (ID3 Algorithm  using) Classification in Machine Learning | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| All About Confusion Matrix and Performance Matrix | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| K-Nearest Neighbors Algorithm | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| K means clustering Algorithm | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Logistic Regression Classification | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Gradient Descent Algorithm | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Multiple Linear Regression Algorithm | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| A1-Complete-Machine-Learning-Course-Part-1 | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| A2-Complete-Machine-Learning-Course-Part-2 | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| A3-Complete-Machine-Learning-Course-Part-3 | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| A4-Complete-Machine-Learning-Course-Part-4 | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| A5-Complete-Machine-Learning-Course-Part-5 | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Apriori Algorithm in Data Mining | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| CountVectorizer in Python | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| DataSet | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Feature Scaling Techniques in Machine & Deep Learning | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Feature Selection Techniques in Machine Learning with Python | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Final Project - 1 | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Machine-Learning-Project-Using-Python | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Naive Bayes Algorithm | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| One-Hot Encoding in Python with Pandas | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Python Course and Book | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Python Pandas Data set | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Random Forest Algorithm | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| Support Vector Machine(SVM) | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
+| TF-IDF Vectorizer - Feature Extraction Techniques - NLP | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
 
 ## ID3 Algorithm in Decision Tree :
    ID3 algorithm stands for Iterative Dichotomiser 3, which is a classification algorithm that follows a greedy approach of building a decision tree by selecting the best attribute that yields maximum Information Gain (IG) or minimum Entropy (H).
