@@ -41,11 +41,6 @@
 | Logistic Regression Classification | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
 | Gradient Descent Algorithm | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
 | Multiple Linear Regression Algorithm | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
-| A1-Complete-Machine-Learning-Course-Part-1 | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
-| A2-Complete-Machine-Learning-Course-Part-2 | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
-| A3-Complete-Machine-Learning-Course-Part-3 | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
-| A4-Complete-Machine-Learning-Course-Part-4 | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
-| A5-Complete-Machine-Learning-Course-Part-5 | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
 | Apriori Algorithm in Data Mining | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
 | CountVectorizer in Python | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
 | DataSet | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() |
